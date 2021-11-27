@@ -6,8 +6,8 @@ versions:
   fpt: '*'
   ghec: '*'
 topics:
-  - Issues
-  - Projects
+  11- Issues
+  12- Projects
 children:
   - /about-projects
   - /quickstart
